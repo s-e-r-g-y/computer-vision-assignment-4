@@ -1,7 +1,7 @@
 # computer-vision-assignment-4
 Geometry and Augmented Reality
 
-- Find Elipses by 6+ points
+- Find Ellipses by 6+ points
 
 - Camera calibration
 
