@@ -6,3 +6,5 @@ Geometry and Augmented Reality
 - Camera calibration
 
 - Find fundamental matrix and epipolar lines
+
+- 3D reconstruction
